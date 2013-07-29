@@ -1,0 +1,12 @@
+Processar uma sequência de inteiros e determinar as seguintes estatísticas:
+	-Valor mínimo.
+	-Valor máximo.
+	-Número de elementos.
+	-Valor médio.
+
+Por exempĺo: [6, 9, 15, -2, 92, 11]
+
+	-Valor mínimo = -2;
+	-Valor máximo = 92;
+	-Número de elementos = 6;
+	-Valor médio: 21.833333;
